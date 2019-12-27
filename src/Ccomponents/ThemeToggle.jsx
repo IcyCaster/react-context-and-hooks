@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {ThemeContext} from "../contexts/ThemeContext";
+import {ThemeContext} from "../Ccontexts/ThemeContext";
 
 class ThemeToggle extends Component {
     render() {

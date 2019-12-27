@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import {ThemeContext} from "../contexts/ThemeContext";
-import {AuthContext} from "../contexts/AuthContext";
+import {ThemeContext} from "../Ccontexts/ThemeContext";
+import {AuthContext} from "../Ccontexts/AuthContext";
 
 class Navbar extends Component {
     render() {
